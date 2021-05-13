@@ -1,5 +1,5 @@
 {
-  "name": "@vishalkhojehoje/foo",
+  "name": "@vishalkhojemonorepo/foo",
   "version": "1.0.0",
   "main": "dist/index",
   "types": "dist/index",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vishalkhojehoje/monorepo-publish-lerna.git"
+    "url": "git+https://github.com/vishalkhoje/monorepo-publish-lerna.git"
   },
   "author": "Vishal Khoje",
   "license": "MIT",
-  "homepage": "https://github.com/vishalkhojehoje/monorepo-publish-lerna/tree/main/packages/foo",
+  "homepage": "https://github.com/vishalkhoje/monorepo-publish-lerna/tree/main/packages/foo",
   "files": [
     "dist"
   ],
