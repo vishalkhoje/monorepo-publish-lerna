@@ -1,8 +1,19 @@
 {
-  "name": "@vishalk/foo",
+  "name": "@vishalkhojehoje/foo",
   "version": "1.0.0",
   "main": "dist/index",
   "types": "dist/index",
+  "description": "Shared bar package",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalkhojehoje/monorepo-publish-lerna.git"
+  },
+  "author": "Vishal Khoje",
+  "license": "MIT",
+  "homepage": "https://github.com/vishalkhojehoje/monorepo-publish-lerna/tree/main/packages/foo",
   "files": [
     "dist"
   ],

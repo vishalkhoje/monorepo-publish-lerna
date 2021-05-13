@@ -1,5 +1,5 @@
 {
-  "name": "@vishalk/bar",
+  "name": "@vishalkhojehoje/bar",
   "version": "1.0.0",
   "main": "dist/index",
   "types": "dist/index",
@@ -15,7 +15,7 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "@vishalk/foo": "^1.0.0"
+    "@vishalkhoje/foo": "^1.0.0"
   },
   "devDependencies": {
     "rimraf": "~3.0.2",
@@ -27,10 +27,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vishalkhoje/ts-monorepo-publish.git"
+    "url": "git+https://github.com/vishalkhojehoje/monorepo-publish-lerna.git"
   },
   "author": "Vishal Khoje",
   "license": "MIT",
-  "homepage": "https://github.com/vishalkhoje/ts-monorepo-publish/tree/master/packages/bar",
-  "gitHead": "ebc341be61721088b5b864f66198e4d3926ef34e"
+  "homepage": "https://github.com/vishalkhojehoje/monorepo-publish-lerna/tree/main/packages/bar"
 }
