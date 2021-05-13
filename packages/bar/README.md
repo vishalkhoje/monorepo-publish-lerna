@@ -1,4 +1,4 @@
 ## Installation
 ```bash
-yarn add @vishalkhoje/bar
+yarn add @vishalkhojemonorepo/bar
 ```

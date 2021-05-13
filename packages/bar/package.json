@@ -15,7 +15,7 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "@vishalkhoje/foo": "^1.0.0"
+    "@vishalkhojemonorepo/foo": "^1.0.0"
   },
   "devDependencies": {
     "rimraf": "~3.0.2",

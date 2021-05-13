@@ -4,7 +4,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@vishalkhoje/*": ["packages/*/src"]
+      "@vishalkhojemonorepo/*": ["packages/*/src"]
     }
   }
 }

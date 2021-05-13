@@ -1,4 +1,4 @@
 ## Installation
 ```bash
-yarn add @planningcenter/finder
+yarn add @vishalkhojemonorepo/foo
 ```

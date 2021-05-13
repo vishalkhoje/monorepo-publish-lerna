@@ -1,5 +1,5 @@
 {
-  "name": "@vishalkhoje/ts-node",
+  "name": "@vishalkhojemonorepo/ts-node",
   "description": "Example of using ts-node in a TS monorepo",
   "private": true,
   "version": "1.0.0",
@@ -8,7 +8,7 @@
     "test": "yarn run start"
   },
   "dependencies": {
-    "@vishalkhoje/foo": "*"
+    "@vishalkhojemonorepo/foo": "*"
   },
   "devDependencies": {
     "ts-node": "~8.10.2",

@@ -15,7 +15,6 @@
     "lint": "eslint --ext js,ts,tsx ."
   },
   "devDependencies": {
-    "@vishalkhoje/eslint-config-tsx": "~8.0.0",
     "doctoc": "~2.0.0",
     "eslint": "~7.26.0",
     "eslint-plugin-import": "~2.22.1",

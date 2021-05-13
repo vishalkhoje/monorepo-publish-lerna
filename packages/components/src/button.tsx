@@ -1,5 +1,5 @@
 /* eslint-disable no-alert */
-import { meaningOfLife } from "@vishalkhoje/foo";
+import { meaningOfLife } from "@vishalkhojemonorepo/foo";
 import React from "react";
 
 export const Button = () => (

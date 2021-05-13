@@ -1,4 +1,4 @@
 ## Installation
 ```bash
-yarn add @vishalkhoje/components
+yarn add @vishalkhojemonorepo/components
 ```
